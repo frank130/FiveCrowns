@@ -1,0 +1,3 @@
+I tried looking online to see if there was a way to create an .exe for this project in allegro, but I had no luck. 
+I remembered that LISP is an interpreted language, so maybe there's no true way to create a .exe without a LISP GUI?
+So I have no .exe to attach, but my .lisp file can be run in any LISP interpreter.
